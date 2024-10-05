@@ -77,7 +77,7 @@ Livro 'O Senhor dos Anéis' removido com sucesso!
 - Feito com ❤️ e C!
 
 - # - 🎥 Vídeo Tutorial
-- Para uma explicação visual do código e de suas funcionalidades, confira este vídeo no YouTube: [Link do vídeo](Aqui).
+- Para uma explicação visual do código e de suas funcionalidades, confira este vídeo no YouTube: [Link do vídeo](https://youtu.be/8wDPeZyLY4U?si=8zrzVZZRdZy0ZNhq).
 
 
 # - ✍ Finalização
